@@ -24,7 +24,7 @@
 - для отрицательных чисел не будет работать в случае применения метода вычисления обратный код (one's complement)
 - метод взятия остатка от деления на 2 (%) более понятен на начальном уровне
 
-Код: [ссылка](https://github.com/IgorKalchenko/lesta_games_test_tasks/blob/main/task_1_lesta.py)
+[Код](https://github.com/IgorKalchenko/lesta_games_test_tasks/blob/main/task_1_lesta.py)
 
 ## Задание №2
 
@@ -38,6 +38,8 @@
   - Оформление кода
   - Наличие сравнения и пояснения по быстродействию
 </details>
+
+
 
 ## Задание №3
 
